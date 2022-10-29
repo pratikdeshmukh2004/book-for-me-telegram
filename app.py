@@ -5,7 +5,7 @@ from pprint import pprint
 import json
 
 
-updater = Updater(token="5724276492:AAGHhPAJ8SsK_GH3NzMi9BYeGpEDjrTHbJM")
+updater = Updater(token="YOUR_TOKEN")
 
 dispatcher = updater.dispatcher
 
